@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkadmin_panel"]=self["webpackChunkadmin_panel"]||[]).push([[331],{331:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("User")])])}],u=t(1001),a={},c=(0,u.Z)(a,l,r,!1,null,null,null),s=c.exports}}]);
-//# sourceMappingURL=331.a56a6361.js.map
