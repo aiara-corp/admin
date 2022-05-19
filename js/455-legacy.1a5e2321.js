@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkadmin_panel"]=self["webpackChunkadmin_panel"]||[]).push([[455],{8455:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("div",{staticClass:"text-h6"},[e._v("Editor")])])}],u=t(1001),a={},i=(0,u.Z)(a,l,r,!1,null,null,null),s=i.exports}}]);
-//# sourceMappingURL=455-legacy.1a5e2321.js.map
