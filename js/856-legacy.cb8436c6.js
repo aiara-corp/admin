@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkadmin_panel"]=self["webpackChunkadmin_panel"]||[]).push([[856],{7856:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("div",{staticClass:"text-h5 mb-10"},[e._v("Member")])])}],u={},a=u,s=t(1001),c=(0,s.Z)(a,l,r,!1,null,null,null),i=c.exports}}]);
-//# sourceMappingURL=856-legacy.cb8436c6.js.map
